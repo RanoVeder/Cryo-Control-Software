@@ -4,6 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="AC Timer" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Path" Type="Str">/Project.lvproj/RT CompactRIO Target/Shared Variables.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"=!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="Actual Loop Period" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Network</Property>
 		<Property Name="Network:UseBinding" Type="Str">False</Property>
@@ -75,5 +84,16 @@
 		<Property Name="Path" Type="Str">/Project.lvproj/RT CompactRIO Target/Shared Variables.lvlib/</Property>
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"=!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
+	</Item>
+	<Item Name="Valve States" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Network</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">1</Property>
+		<Property Name="Path" Type="Str">/Project.lvproj/RT CompactRIO Target/Shared Variables.lvlib/</Property>
+		<Property Name="type" Type="Str">Network</Property>
+		<Property Name="typedefName1" Type="Str">Manual Control.ctl</Property>
+		<Property Name="typedefPath1" Type="PathRel">../../Controls/Manual Control.ctl</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%G)A%!!"=!A!!!!!!1!!R!)1&gt;-4VAA469R!!Z!)1B-4VAA26.7-1!!$E!B#%R07#"11V9R!!!-1#%(4%^9)%27-1!-1#%(4%^9)&amp;"7-1!-1#%(262))%V7-A!/1#%)262))%646D)!!!R!)1&gt;&amp;6%AA5&amp;9S!!B!)1*96A!!$%!B"EF(4C")-A!!$%!B"EF(4C"0-A!!$E!B#5F(4C"1&gt;8*H:1!/1#%*35&gt;/)&amp;.Q98*L!!B!)1.#6D%!#%!B!U*7-A"2!0%!!!!!!!!!!2*.97ZV97QA1W^O&gt;(*P&lt;#ZD&gt;'Q!.E"1!!]!!!!"!!)!!Q!%!!5!"A!(!!A!#1!+!!M!$!!.!!Y-6G&amp;M&gt;G5A5X2B&gt;'6T!!!"!!]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
