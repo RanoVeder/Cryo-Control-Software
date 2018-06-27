@@ -94,6 +94,6 @@
 		<Property Name="type" Type="Str">Network</Property>
 		<Property Name="typedefName1" Type="Str">Manual Control.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">../../Controls/Manual Control.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%G)A%!!"=!A!!!!!!1!!R!)1&gt;-4VAA469R!!Z!)1B-4VAA26.7-1!!$E!B#%R07#"11V9R!!!-1#%(4%^9)%27-1!-1#%(4%^9)&amp;"7-1!-1#%(262))%V7-A!/1#%)262))%646D)!!!R!)1&gt;&amp;6%AA5&amp;9S!!B!)1*96A!!$%!B"EF(4C")-A!!$%!B"EF(4C"0-A!!$E!B#5F(4C"1&gt;8*H:1!/1#%*35&gt;/)&amp;.Q98*L!!B!)1.#6D%!#%!B!U*7-A"2!0%!!!!!!!!!!2*.97ZV97QA1W^O&gt;(*P&lt;#ZD&gt;'Q!.E"1!!]!!!!"!!)!!Q!%!!5!"A!(!!A!#1!+!!M!$!!.!!Y-6G&amp;M&gt;G5A5X2B&gt;'6T!!!"!!]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%C(A%!!"=!A!!!!!!+!":!-0````].17.U&gt;7&amp;U&lt;X)A4G&amp;N:1!61!)!$V6O='^X:8*F:#"4&gt;'&amp;U:1!21!=!#U^V&gt;("V&gt;#"1&lt;X*U!"6!!A!027VF=G&gt;F&lt;G.Z)&amp;.U982F!"*!)1R#&lt;'&amp;O;S"#&gt;82U&lt;WY!!"6!!A!/4X"F&lt;C"5;7VF)&amp;NN=VU!!"6!!A!01WRP=W5A6'FN:3"&lt;&lt;8.&gt;!#:!5!!(!!!!!1!#!!-!"!!&amp;!!9117.U&gt;7&amp;U&lt;X)A1WRV=X2F=A!!(E"!!!(`````!!=217.U&gt;7&amp;U&lt;X)A5W6U&gt;'FO:X-!/1$R!!!!!!!!!!%347&amp;O&gt;7&amp;M)%.P&lt;H2S&lt;WQO9X2M!"Z!5!!"!!A217.U&gt;7&amp;U&lt;X)A5W6U&gt;'FO:X-!!1!*!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
